@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Personal data used to build the site (LinkedIn export, resume) - never publish
+inputs/
